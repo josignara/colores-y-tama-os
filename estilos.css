@@ -1,0 +1,21 @@
+
+body
+
+{
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+h1.colores1
+
+{
+    border: solid 2.5px black;
+    font-size: 200%;
+    text-align: center;
+}
+
+p.Colores2
+
+{
+    border: thick 2.5 black blue black;
+}
