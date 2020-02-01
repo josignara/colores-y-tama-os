@@ -25,14 +25,14 @@ p
 p.Colores2
 
 {
-    border-left: double 20px red;
+  border-left: double 20px red;
   border-top: double 20px red;
 }
 
 p.Colores3
 
 {
-    border-color: blue green;
+  border-color: blue green;
   border-width: 5px 10px 20px 40px;
   border-style: dashed;
 }
@@ -40,7 +40,7 @@ p.Colores3
 p.Colores4
 
 {
-    border-color:#ffd700;
+  border-color:#ffd700;
   border-width: 40px 10px;
   border-style: double;
 }
@@ -54,8 +54,8 @@ border-style: solid none;
 
 p.Colores6
 
-{
-    border-color: red black black;
+{ 
+  border-color: red black black;
   border-width: 40px 35px 40px;
   border-style: dashed solid dotted
 }
@@ -63,7 +63,7 @@ p.Colores6
 p.Colores7
 
 {
-    border-color: black black black red;
+  border-color: black black black red;
   border-width: 10px 30px 20px;
   border-style: dotted solid dashed double;
 }
